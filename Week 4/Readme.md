@@ -165,7 +165,7 @@ p { color: blue; }
 
 ```css
 p {
-  color: blue !important; /* ще победи и inline стил */
+  color: blue !important; /* ще се приложи без значение какъв друг вид стилизации има */
 }
 ```
 
