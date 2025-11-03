@@ -24,4 +24,6 @@
 Добавете вътрешно отстояние (padding) в този контейнер, за да има пространство между бордера и вътрешното съдържание.
 По желание добавете снимка за фон или сменете цвета.
 
-![image](https://github.com/user-attachments/assets/3ceb0d4d-7f6e-46b0-afb2-8a3d5f79a669)
+[https://github-production-user-asset-6210df.s3.amazonaws.com/97876853/423242645-3ceb0d4d-7f6e-46b0-afb2-8a3d5f79a669.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251103T074447Z&X-Amz-Expires=300&X-Amz-Signature=856c258d37e5af86079adf33794f5cfba8b56b585394025a1c9a3c17e1422ac3&X-Amz-SignedHeaders=host]
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/97876853/423242645-3ceb0d4d-7f6e-46b0-afb2-8a3d5f79a669.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251103T074447Z&X-Amz-Expires=300&X-Amz-Signature=856c258d37e5af86079adf33794f5cfba8b56b585394025a1c9a3c17e1422ac3&X-Amz-SignedHeaders=host)
