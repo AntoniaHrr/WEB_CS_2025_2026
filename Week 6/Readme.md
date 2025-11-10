@@ -168,5 +168,3 @@ element.classList.add('new-class');
 element.addEventListener('click', function(){ /* код */ });
 ```
 ---
-
-Това README обединява цялата информация, която обсъждахме от началото на чата, във вид на удобен справочник.
