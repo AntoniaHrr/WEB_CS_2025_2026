@@ -151,10 +151,8 @@ content.textContent = "Just text";
 Пример — валидиране на форма:
 
 ```js
-form.addEventListener('submit', function(e) {
-  if (username.value.length < 3) {
-    e.preventDefault();
-    msg.textContent = "Name must be at least 3 characters!";
-  }
-});
+if(input.length < 3){
+  event.preventDefault();
+  document.getElementById('formResult').textContent = "Name must be at least 3 characters long!";
+}
 ```
