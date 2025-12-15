@@ -6,7 +6,7 @@
 Отиваме в DATABASES и създаваме първата си БД, която в случая ще кръстим:
 
     myfirstdatabase
-В създадената база отиваме на създаването на нова таблица и от там на STRUCTURE:
+В създадената база отиваме на създаването на нова таблица и от там на SQL:
 
     CREATE TABLE users( id INT(11) NOT NULL AUTO_INCREMENT,
     username VARCHAR(30) NOT NULL, pwd VARCHAR(255) NOT NULL,
@@ -15,6 +15,6 @@
     PRIMARY KEY (id)
     );
 Когато сме готови кликаме GO
-Вече имаме успешно създадена таблица users. За да я популираме с данни, отново я отваряме и отиваме на STRUCTURE:
+Вече имаме успешно създадена таблица users. За да я популираме с данни, отново я отваряме и отиваме на SQL:
 
     INSERT INTO users (username, pwd, email) VALUES ('antonia', 'tony1234', 'antonia1235@abv.bg');
